@@ -2,6 +2,12 @@
 
 All notable changes to the "helion" extension will be documented in this file.
 
+## [1.0.2]
+
+### Changed
+
+- Updated core theme syntax highlighting.
+
 ## [1.0.1]
 
 ### Fixed
